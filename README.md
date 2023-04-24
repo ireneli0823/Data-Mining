@@ -1,14 +1,22 @@
-# Data-Mining 🔮
+## Data-Mining 🔮
 
 This folder contains several data mining projects that I have worked on. Each project has its own folder with a README file that provides more information on the project and how to run the code.
 
 ### Projects 🧩
 
-📕 **[Data Exploration using Pyspark RDD](https://github.com/ireneli0823/Data-Mining/tree/master/Data%20Exploration%20using%20Pyspark%20RDD)**
-
-- Description: This project involves working on three tasks to explore a real-world dataset using Spark RDD and Python. The goal is to become familiar with Spark operation types and explore the Yelp dataset. The tasks include data exploration, partitioning data for processing to optimize performance, and exploring two datasets containing review and business information. 
+####  **[Data Exploration using Pyspark RDD](https://github.com/ireneli0823/Data-Mining/tree/master/Data%20Exploration%20using%20Pyspark%20RDD)** 📕
 
 - Used Techniques: `MapReduce` `Spark` `Pyspark` 
+
+
+####  **[Find Frequent Itemsets](https://github.com/ireneli0823/Data-Mining/tree/master/Find%20Frequent%20Itemsets)** 📕
+
+- Used Techniques: `Apriori` `SON` 
+
+
+
+
+
 
 ### Programming Environment 🪄
 
